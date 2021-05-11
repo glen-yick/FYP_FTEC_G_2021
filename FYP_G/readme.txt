@@ -1,5 +1,6 @@
 package prerequisite:
- 
+
+python version: 3.7.6
 scikit-learn 			   0.23.2
 tensorflow                         1.14.0 
 Keras                              2.3.1 
